@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: 4824418cd3a6c64418f6fe14efc8cf26
+  - enabled: 1
+    path: Assets/Scenes/Joining Host.unity
+    guid: 8e935b5a7fe40fd4aaa6ef924f7bcd8a
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Video1-Metahuman.unity
+    guid: 8655f2903342cf048a7bc0c6ede8c531
+  - enabled: 1
+    path: Assets/Scenes/Video2-test.unity
+    guid: a6733e9cdcab389458e8d6eaa589daf4
+  - enabled: 1
+    path: Assets/Scenes/Video3-skrillex.unity
+    guid: cdc81b59712830f46a54f2e94ec66be9
+  - enabled: 0
+    path: Assets/Scenes/VideoN-Link.unity
+    guid: d297ad3a8f36b574e9de87627039db1d
+  - enabled: 0
+    path: Assets/Scenes/Create Room 1.unity
+    guid: edc06fb1fd238cb4fbbaadc8abbb9bf4
+  m_configObjects: {}
